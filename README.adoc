@@ -1,4 +1,4 @@
-= Showcase for Kafka based on Quarkus
+= Showcase for eventing with Kafka
 
 This project holds a showcase for various Kafka related things.
 
